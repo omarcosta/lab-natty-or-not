@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A Jornada da IA: Um Passeio pelo Futuro 🌌
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O repositório Treinando Desafios de Códigos com IAs Generativas tem como objetivo compartilhar conhecimento sobre os princípios básicos do treinamento de IAs Generativas. Ele oferece desafios e a oportunidade de explorar possíveis soluções para esses desafios.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para conteúdo;
+- IA Generativa **[Microsoft Copilot](https://www.microsoft.com/pt-br/bing)** para refinar código fonte;
+- Ferramenta **[Dilliger](https://dillinger.io/)** para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Os desafios de código são parte integrante do **Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3**, oferecido pela plataforma da [DIO](https://www.dio.me/). Após concluir os desafios, utilizei o "Microsoft Copilot" para revisar e aprimorar meu código-fonte. Com a versão final do código, recorri ao "Chat GPT" para explicar detalhadamente o código, visando torná-lo compreensível para estudantes com pouca experiência em programação. Por fim, editei o texto em Markdown no Dillinger, que proporciona uma experiência de edição e visualização imediata do resultado final.
+
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Você pode conferir o resultado do repositório para fins acadêmicos abaixo:
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[DIO | Treinando desafios de códigos com IAs Generativas](https://github.com/omarcosta/Treinando-Desafios-de-Codigos-com-IAs-Generativas)
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Esse desafio foi uma experiência reveladora sobre o potencial das IAs Generativas como aliadas não apenas no processo criativo, mas também em aspectos lógicos relacionados à programação. Minha percepção dessas tecnologias também mudou: antes, eu as via apenas como uma maneira de obter respostas rápidas; agora, percebo como elas podem me auxiliar a pensar de forma mais aprofundada e aprimorar meus pontos fracos no desenvolvimento.
